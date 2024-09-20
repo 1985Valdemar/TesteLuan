@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\bin\Debug\net8.0\testcClasse.exe
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\bin\Debug\net8.0\testcClasse.deps.json
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\bin\Debug\net8.0\testcClasse.runtimeconfig.json
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\bin\Debug\net8.0\testcClasse.dll
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\bin\Debug\net8.0\testcClasse.pdb
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\testcClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\testcClasse.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\testcClasse.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\testcClasse.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\testcClasse.dll
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\refint\testcClasse.dll
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\testcClasse.pdb
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\testcClasse.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C#_Fundamentos\testcClasse\obj\Debug\net8.0\ref\testcClasse.dll
