@@ -16,3 +16,4 @@ pj.cnpj = '15.462.356/0001-39';
 // CHAMANDO METODO PRA IMPRIMIR
 pf.imprimir();
 pj.imprimir();
+
