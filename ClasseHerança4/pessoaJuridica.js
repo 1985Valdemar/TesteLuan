@@ -7,7 +7,7 @@ class PessoaJuridica extends Pessoa{
     imprimir(){//REESCREVENDO O METODO DA MAE, MUDA O COMPORTAMENTEO ORIGINAL DA MAE
      //SUPER PUXA DADOS DA MAE
      // {}puxa dados especifico
-     console.log(`${super.imprimir()} ${this.cnpj}`);
+     console.log(`${super.imprimir()} CNPJ: ${this.cnpj}`);
     }
 }
 

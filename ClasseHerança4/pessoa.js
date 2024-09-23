@@ -6,7 +6,7 @@ class Pessoa{
     }
     imprimir(){
         // interpolação TERNARIO
-        return `${this.nome} ${this.dt_nascimento}`
+        return `${this.nome} ${this.dt_nascimento} `
     }
 }
 

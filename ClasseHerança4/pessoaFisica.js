@@ -9,7 +9,7 @@ class PessoaFisica extends Pessoa{// Herança
    imprimir(){//REESCREVENDO O METODO DA MAE, MUDA O COMPORTAMENTEO ORIGINAL DA MAE
     //SUPER PUXA DADOS DA MAE
     // {}puxa dados especifico
-    console.log(`${super.imprimir()} ${this.cpf}`);
+    console.log(`${super.imprimir()} CPF: ${this.cpf}`);
    }
 }
 
